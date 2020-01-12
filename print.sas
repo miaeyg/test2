@@ -1,1 +1,3 @@
-proc print;run;
+/* test */
+proc print data=sashelp.class
+;run;
